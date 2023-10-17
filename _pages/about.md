@@ -1,16 +1,16 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
-
+subtitle: 
 profile:
   align: right
-  image: avatar.jpeg
+  image: IMG_1409.jpeg
   image_circular: false # crops the image to make it circular
   more_info: >
+    <p>210023</p>
     <p>School of Journalism and Communication, Nanjing University</p>
-    <p>163 Xianlin Street, Nanjing, Jiangsu Province 210023</p>
+    <p>163 Xianlin Street, Nanjing, Jiangsu Province </p>
 
 news: true  # includes a list of news items
 latest_posts: true  # includes a list of the newest posts
