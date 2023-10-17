@@ -1,11 +1,11 @@
 ---
 layout: about
-title: About
+title: about
 permalink: /
 subtitle: 
 profile:
   align: right
-  image: IMG_1409.jpeg
+  image: avatar.jpeg
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>210023</p>
