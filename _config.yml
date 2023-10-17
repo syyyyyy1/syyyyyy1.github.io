@@ -2,9 +2,8 @@
 # Site settings
 # -----------------------------------------------------------------------------
 
-title:blank
+title: blank
 first_name: Yanyan
-middle_name:  
 last_name: Yang
 email: yeon_yang@163.com
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
